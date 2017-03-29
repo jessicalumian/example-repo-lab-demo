@@ -5,7 +5,7 @@ teps to putting existing repository on github:
 
 2. Type `git init`. This initializes a program called “git”, which is a version controlled system called git that tracks all the changes you make to your files. git is integrated with GitHub, which hosts these repositories online.
 
-:::Putting repo on GitHub::: 
+## Putting repo on GitHub 
 Extra info is here: [https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 3. (Optional) See status of file. Type `git status`, and you will see the file in your repository as “untracked”.
