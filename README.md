@@ -1,5 +1,5 @@
-# This is the readme file. I'll add stuff here soon!
-teps to putting existing repository on github:
+# This is the readme file. It can be used to described what is in your repository!
+Steps to putting existing repository on github:
 
 1. Go into directory (directory = folder in file system) and create a file. I’m using vi, which is a text editor at the command line, but you can also a program like TextEdit on a Mac or WordPad on a PC to make a .txt file. (Note - it’s better to save files as plain text, which defaults to a .txt format, rather than rich text, which defaults to .rtf, because rich text has hidden formatting characters that mess with encoding.) This is the folder where you would keep your scripts.
 
