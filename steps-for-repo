@@ -22,3 +22,5 @@ git push -u origin master”
 You might need to do some configuration of your username if that’s not set up yet.
 
 8. Now you can push changes.
+
+9. If you have made changes to the online repository, you need to pull them down before creating additional changes. Type “git pull” to do this.
