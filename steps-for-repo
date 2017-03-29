@@ -1,0 +1,7 @@
+steps to make github repository:
+
+1. go into directory (directory = folder in file system) and create a file. I’m using vi, which is a text editor at the command line, but you can also a program like TextEdit on a Mac or WordPad on a PC to make a .txt file. (Note - it’s better to save files as plain text, which defaults to a .txt format, rather than rich text, which defaults to .rtf, because rich text has hidden formatting characters that mess with encoding.) This is the folder where you would keep your scripts.
+
+2. Type “git init”. This initializes a program called “git”, which is a version controlled system called git that tracks all the changes you make to your files. git is integrated with GitHub, which hosts these repositories online.
+
+3.
