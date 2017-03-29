@@ -1,11 +1,14 @@
 # This is the readme file. It can be used to described what is in your repository!
-Steps to putting existing repository on github:
+
+The README file can be formatted in RST or Markdown. Because I have the file named README.md, it will be read as a Markdown file by GitHub. To use RST, save the file as README.rst. A markdown cheatsheet can be found here: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+## Steps to putting existing repository on GitHub:
 
 1. Go into directory (directory = folder in file system) and create a file. I’m using vi, which is a text editor at the command line, but you can also a program like TextEdit on a Mac or WordPad on a PC to make a .txt file. (Note - it’s better to save files as plain text, which defaults to a .txt format, rather than rich text, which defaults to .rtf, because rich text has hidden formatting characters that mess with encoding.) This is the folder where you would keep your scripts.
 
 2. Type `git init`. This initializes a program called “git”, which is a version controlled system called git that tracks all the changes you make to your files. git is integrated with GitHub, which hosts these repositories online.
 
-## Putting repo on GitHub 
+### Putting repo on GitHub 
 Extra info is here: [https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
 3. (Optional) See status of file. Type `git status`, and you will see the file in your repository as “untracked”.
